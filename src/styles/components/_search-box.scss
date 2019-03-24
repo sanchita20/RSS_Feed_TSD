@@ -1,0 +1,16 @@
+.search_box{
+    padding: $m-size;
+    border-bottom: 1px solid black; 
+}
+
+.search_button{
+    height: 50px;
+    border-radius: $s-size;
+}
+
+.input_box{
+    width: 70%;    
+    height: 50px;
+    border-radius: $s-size;
+    margin: $s-size
+}
